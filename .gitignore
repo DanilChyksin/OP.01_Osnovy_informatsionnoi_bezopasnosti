@@ -1,0 +1,13 @@
+# Local instructor and authoring material
+trebovaniya_k_lekcii.yml
+ПЛАН_КУРСА.md
+СТАТУС_КУРСА.md
+Преподавателю/
+Практикум/Ключ преподавателя.md
+Материалы_анализа/
+AGENTS.md
+DELEGATION.md
+.codex/
+.env
+.env.*
+*.bak
